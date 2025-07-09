@@ -81,7 +81,7 @@ The frontend runs on [http://localhost:5173](http://localhost:5173).
 ## 📸 Screenshots
 
 ### Login Page
-[Login](https://github.com/user-attachments/assets/6cf4bc2d-ffd4-4a52-a79a-ee65092d13bf)
+![Login](https://github.com/user-attachments/assets/6cf4bc2d-ffd4-4a52-a79a-ee65092d13bf)
 
 
 ### Register Page
